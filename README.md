@@ -2,6 +2,7 @@
 - 👀 I’m interested in algorithms, data structures, AI, network security and games like Minecraft.
 - 🌱 I’m currently learning programming languages like C/C++, Java and Python.
 - 📫 How to reach me: On GitHub:@BlueberryOreo. Email:1761988645@qq.com
+- Personal page: [Blueberryoreo.github.io](Blueberryoreo.github.io)
 
 - Profile: author:かぷりちお, [pid99973619](https://www.pixiv.net/artworks/99973619)
 
