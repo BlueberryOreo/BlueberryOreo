@@ -18,6 +18,8 @@ Studying: ![Static Badge](https://img.shields.io/badge/Algorithm-red) ![Static B
 
 Interesting: ![Static Badge](https://img.shields.io/badge/CV-blue) ![Static Badge](https://img.shields.io/badge/Cybersecurity-green)
 
+Favourite: ![Static Badge](https://img.shields.io/badge/Music-purple) ![Static Badge](https://img.shields.io/badge/Games-lightblue)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueberryOreo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlueberryOreo&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
