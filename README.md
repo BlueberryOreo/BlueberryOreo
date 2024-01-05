@@ -10,6 +10,8 @@
 
 ## Ciallo～(∠・ω< )⌒☆ This is BlueberryOreo
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlueberryOreo)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 - Personal site: [Blueberryoreo.github.io](https://blueberryoreo.github.io/)
 
 - Profile: author:森林长椅, [pid=97746134](https://www.pixiv.net/artworks/97746134)
