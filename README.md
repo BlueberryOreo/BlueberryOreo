@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @BlueberryOreo
-- 👀 I’m interested in algorithms, data structures, AI, network security and games like Minecraft.
-- 🌱 I’m currently learning programming languages like C/C++, Java and Python.
-- 📫 How to reach me: On GitHub:@BlueberryOreo. Email:1761988645@qq.com
+  <div>
+    <a href="https://twitter.com/sjy_2002"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/89134945"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/39-35-23-53"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
 - Personal site: [Blueberryoreo.github.io](https://blueberryoreo.github.io/)
 
 - Profile: author:森林长椅, [pid=97746134](https://www.pixiv.net/artworks/97746134)
