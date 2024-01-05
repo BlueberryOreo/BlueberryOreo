@@ -31,6 +31,7 @@ I'll be happy if you want to play game with me | ᐕ)⁾⁾ ![Static Badge](http
 - Personal site: [Blueberryoreo.github.io](https://blueberryoreo.github.io/)
 
 - Profile: author:森林长椅, [pid=97746134](https://www.pixiv.net/artworks/97746134)
+- Readme cover: CG from《千恋＊万花》
 
 <!---
 BlueberryOreo/BlueberryOreo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
