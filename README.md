@@ -12,7 +12,9 @@
 
 ### About me
 
-interesting: ![Static Badge](https://img.shields.io/badge/CV-blue) ![Static Badge](https://img.shields.io/badge/Web-green)
+Studying: ![Static Badge](https://img.shields.io/badge/Algorithm-red) ![Static Badge](https://img.shields.io/badge/OS-yellow) ![Static Badge](https://img.shields.io/badge/CG-brown)
+
+Interesting: ![Static Badge](https://img.shields.io/badge/CV-blue) ![Static Badge](https://img.shields.io/badge/Cybersecurity-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueberryOreo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
