@@ -1,3 +1,5 @@
+## Ciallo～(∠・ω< )⌒☆ This is BlueberryOreo
+
 ![yoshino-ciallo](./sd003da.png)
 
 <div align="center">
@@ -7,8 +9,6 @@
   <!-- visitor statistics logo 访问量统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=BlueberryOreo&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
-
-## Ciallo～(∠・ω< )⌒☆ This is BlueberryOreo
 
 ### About me
 
