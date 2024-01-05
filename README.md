@@ -10,6 +10,8 @@
   <img src="https://komarev.com/ghpvc/?username=BlueberryOreo&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </div>
 
+----
+
 ### About me
 
 Junior student in Soochow University, major in Computer Science.
