@@ -10,7 +10,7 @@
 
 ## Ciallo～(∠・ω< )⌒☆ This is BlueberryOreo
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlueberryOreo)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlueberryOreo&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 - Personal site: [Blueberryoreo.github.io](https://blueberryoreo.github.io/)
 
