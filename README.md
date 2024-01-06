@@ -24,11 +24,28 @@ Favourite: ![Static Badge](https://img.shields.io/badge/Music-purple) ![Static B
 
 I'll be happy if you want to play game with me | ᐕ)⁾⁾ ![Static Badge](https://img.shields.io/badge/Genshin-uid%3D254343598-blue) ![Static Badge](https://img.shields.io/badge/Genshin--Asia-uid%3D883485434-yellow) ![Static Badge](https://img.shields.io/badge/Arknights-uid%3D104219729-green)
 
-<center>
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=BlueberryOreo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="BlueberryOreo's github stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueberryOreo&layout=compact" alt="Top Langs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueberryOreo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=BlueberryOreo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="BlueberryOreo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueberryOreo&layout=compact" alter="Top Langs" /></a> |
 | ------------- | -------- |
-</center>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlueberryOreo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueberryOreo&layout=compact" alter="Top Langs">
 </div>
