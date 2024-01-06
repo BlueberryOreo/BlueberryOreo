@@ -20,7 +20,7 @@ Studying: ![Static Badge](https://img.shields.io/badge/Algorithm-red) ![Static B
 
 Interesting: ![Static Badge](https://img.shields.io/badge/CV-blue) ![Static Badge](https://img.shields.io/badge/Cybersecurity-green)
 
-Favourite: ![Static Badge](https://img.shields.io/badge/Music-purple) ![Static Badge](https://img.shields.io/badge/Games-lightblue)
+Favourite: ![Static Badge](https://img.shields.io/badge/Music-purple) ![Static Badge](https://img.shields.io/badge/Games-lightblue) ![Static Badge](https://img.shields.io/badge/ACG-lightblue)
 
 I'll be happy if you want to play game with me | ᐕ)⁾⁾ ![Static Badge](https://img.shields.io/badge/Genshin-uid%3D254343598-blue) ![Static Badge](https://img.shields.io/badge/Genshin--Asia-uid%3D883485434-yellow) ![Static Badge](https://img.shields.io/badge/Arknights-uid%3D104219729-green)
 
