@@ -16,7 +16,7 @@
 
 Junior student in Soochow University, major in Computer Science.
 
-Studying: ![Static Badge](https://img.shields.io/badge/Algorithm-red) ![Static Badge](https://img.shields.io/badge/OS-yellow) ![Static Badge](https://img.shields.io/badge/CG-brown)
+Studying: ![Static Badge](https://img.shields.io/badge/Algorithm-red) ![Static Badge](https://img.shields.io/badge/OS-yellow) ![Static Badge](https://img.shields.io/badge/CG-brown) ![Static Badge](https://img.shields.io/badge/Web-orange)
 
 Interesting: ![Static Badge](https://img.shields.io/badge/CV-blue) ![Static Badge](https://img.shields.io/badge/Cybersecurity-green)
 
