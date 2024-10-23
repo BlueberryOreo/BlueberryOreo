@@ -27,6 +27,8 @@ Feel free to reach out to me for project collaboration, code discussion, or acad
 * Academic Email: `jysun02[at]stu.suda.edu.cn`
 * Personal Email: `sunjiayang200210[at]google.com`
 
+`PS: Don't forget to replace '[at]' with '@' while using the email address :)`
+
 <!--I'll be happy if you want to play game with me | ᐕ)⁾⁾ ![Static Badge](https://img.shields.io/badge/Genshin-uid%3D254343598-blue) ![Static Badge](https://img.shields.io/badge/Genshin--Asia-uid%3D883485434-yellow) ![Static Badge](https://img.shields.io/badge/Arknights-uid%3D104219729-green)-->
 
 <div align="center">
