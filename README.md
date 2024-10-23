@@ -14,15 +14,18 @@
 
 ### About me
 
-Junior student in Soochow University, major in Computer Science.
+Senior student in Soochow University, major in Computer Science.
 
 Studying: ![Static Badge](https://img.shields.io/badge/Algorithm-red) ![Static Badge](https://img.shields.io/badge/AI-brown) ![Static Badge](https://img.shields.io/badge/Mathematics-orange)
 
-Interesting: ![Static Badge](https://img.shields.io/badge/CV-red) ![Static Badge](https://img.shields.io/badge/NLP-green) ![Static Badge](https://img.shields.io/badge/MultimodalLearning-blue)
+Interest: ![Static Badge](https://img.shields.io/badge/CV-red) ![Static Badge](https://img.shields.io/badge/NLP-green) ![Static Badge](https://img.shields.io/badge/MultimodalLearning-blue)
 
 Favourite: ![Static Badge](https://img.shields.io/badge/Music-purple) ![Static Badge](https://img.shields.io/badge/Games-lightblue) ![Static Badge](https://img.shields.io/badge/ACGN-lightgreen)
 
-Contact me: jysun02@stu.suda.edu.cn sunjiayang200210@google.com
+Feel free to reach out to me for project collaboration, code discussion, or academic inquiries:
+
+* Academic Email: `jysun02[at]stu.suda.edu.cn`
+* Personal Email: `sunjiayang200210[at]google.com`
 
 <!--I'll be happy if you want to play game with me | ᐕ)⁾⁾ ![Static Badge](https://img.shields.io/badge/Genshin-uid%3D254343598-blue) ![Static Badge](https://img.shields.io/badge/Genshin--Asia-uid%3D883485434-yellow) ![Static Badge](https://img.shields.io/badge/Arknights-uid%3D104219729-green)-->
 
