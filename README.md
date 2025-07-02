@@ -14,7 +14,7 @@
 
 ### About me
 
-Senior student in Soochow University, major in Computer Science.
+Graduate student in Soochow University, major in Computer Science.
 
 Studying: ![Static Badge](https://img.shields.io/badge/Algorithm-red) ![Static Badge](https://img.shields.io/badge/AI-brown) ![Static Badge](https://img.shields.io/badge/Mathematics-orange)
 
