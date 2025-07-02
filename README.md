@@ -1,6 +1,8 @@
 ## Ciallo～(∠・ω< )⌒☆ This is BlueberryOreo
 
-![yoshino-ciallo](./sd003da.png)
+<div align="center">
+  <img src="./sd003da.png" alt="yoshino-ciallo" style="width:65%;"/>
+</div>
 
 <div align="center">
   <a href="https://twitter.com/sjy_2002"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
@@ -14,11 +16,19 @@
 
 ### About me
 
-Graduate student in Soochow University, major in Computer Science.
+Graduate Student at the Institute of Artificial Intelligence, School of Computer Science and Technology, Soochow University
+
+**Links:**
+
+[About Soochow University](https://www.suda.edu.cn/)
+
+[About Institute of Artificial Intelligence](https://scst.suda.edu.cn/28254/list.htm)
+
+[About My Graduate Advisor and Our Lab](https://web.suda.edu.cn/caomin/)
 
 Studying: ![Static Badge](https://img.shields.io/badge/Algorithm-red) ![Static Badge](https://img.shields.io/badge/AI-brown) ![Static Badge](https://img.shields.io/badge/Mathematics-orange)
 
-Interest: ![Static Badge](https://img.shields.io/badge/CV-red) ![Static Badge](https://img.shields.io/badge/NLP-green) ![Static Badge](https://img.shields.io/badge/MultimodalLearning-blue)
+Interest: ![Static Badge](https://img.shields.io/badge/MultimodalLearning-red) ![Static Badge](https://img.shields.io/badge/CV-blue) ![Static Badge](https://img.shields.io/badge/NLP-green)
 
 Favourite: ![Static Badge](https://img.shields.io/badge/Music-purple) ![Static Badge](https://img.shields.io/badge/Games-lightblue) ![Static Badge](https://img.shields.io/badge/ACGN-lightgreen)
 
